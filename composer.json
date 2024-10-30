@@ -1,0 +1,19 @@
+{
+    "name": "boldizart/blacklisted_ip_addresses",
+    "description": "WordPress plugin that allows you to blacklist any IP sddress.",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Boldizart\\BlacklistedIpAddresses\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "BoldizArt",
+            "email": "boldizar.santo@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
